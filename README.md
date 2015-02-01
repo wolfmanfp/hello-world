@@ -11,3 +11,4 @@ This repo contains the message "Hello World" in several programming languages an
   * LOLCODE
   * Pascal
   * PHP
+  * Python
