@@ -8,5 +8,6 @@ This repo contains the message "Hello World" in several programming languages an
   * C++
   * C#
   * Java
+  * LOLCODE
   * Pascal
   * PHP
