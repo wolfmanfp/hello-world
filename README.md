@@ -12,3 +12,4 @@ This repo contains the message "Hello World" in several programming languages an
   * Pascal
   * PHP
   * Python
+  * Swift
