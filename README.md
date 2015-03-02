@@ -17,4 +17,5 @@ This repo contains the message "Hello World" in several programming and two huma
   * PHP
   * Python
   * Ruby
+  * [Shibe](https://github.com/justinmeza/doge)
   * Swift
