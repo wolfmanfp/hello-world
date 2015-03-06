@@ -1,10 +1,9 @@
 // Hello World in C++
 
 #include <iostream>
-#include <cstdlib>
 
 int main() {
-    std::cout << "Hello world!\n";
-    std::cout << "Hello, vilag!\n";
+    std::cout << "Hello world!" << std::endl;
+    std::cout << "Hello, vilag!" << std::endl;
     std::cin.ignore();
 }
