@@ -1,7 +1,7 @@
 # Hello World!
 Hi! I'm Péter, currently studying Engineering IT at the University of Pécs.
 
-This repo contains the message "Hello World" in several programming and two human languages (English and Hungarian).
+This repo contains the message "Hello World" in several programming, markup and two human languages (English and Hungarian).
 
 ### Current languages:
   * Bash
@@ -9,9 +9,12 @@ This repo contains the message "Hello World" in several programming and two huma
   * C
   * C++
   * C#
+  * HTML
   * Java
   * JavaScript
+  * LaTeX
   * LOLCODE
+  * Markdown
   * Pascal
   * PowerShell
   * PHP
