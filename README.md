@@ -4,6 +4,7 @@ Hi! I'm Péter, currently studying Engineering IT at the University of Pécs.
 This repo contains the message "Hello World" in several programming, markup and two human languages (English and Hungarian).
 
 ### Current languages:
+  * Assembly (x86 DOS)
   * Bash
   * Batch
   * C
