@@ -14,13 +14,13 @@ This repo contains the message "Hello World" in several programming, markup and 
   * Java
   * JavaScript
   * LaTeX
-  * LOLCODE
+  * [LOLCODE](https://en.wikipedia.org/wiki/LOLCODE)
   * Markdown
   * Pascal
-  * PowerShell
-  * PHP
-  * Python
-  * Ruby
+  * [PowerShell](https://github.com/powershell/)
+  * [PHP](https://github.com/php/php-src)
+  * [Python](https://github.com/python)
+  * [Ruby](https://github.com/ruby/ruby)
   * [Shibe](https://github.com/justinmeza/doge)
   * [Stuck](https://github.com/kade-robertson/stuck)
-  * Swift
+  * [Swift](https://github.com/apple/swift)

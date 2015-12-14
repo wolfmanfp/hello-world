@@ -1,4 +1,4 @@
 // Hello World in Swift
 
-println("Hello World!")
+println("Hello, world!")
 println("Helló, világ!")

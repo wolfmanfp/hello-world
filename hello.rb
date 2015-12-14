@@ -1,4 +1,4 @@
 # Hello World in Ruby
 
-puts "Hello World!"
+puts "Hello, world!"
 puts "Helló, világ!"

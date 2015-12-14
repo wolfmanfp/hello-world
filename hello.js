@@ -1,4 +1,4 @@
 ﻿// Hello World in JavaScript
 
-alert("Hello World!");
+alert("Hello, world!");
 console.log("Helló, világ!");

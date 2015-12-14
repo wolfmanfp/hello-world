@@ -1,9 +1,11 @@
 // Hello World in C++
 
 #include <iostream>
+using namespace std;
 
 int main() {
-    std::cout << "Hello world!" << std::endl;
-    std::cout << "Hello, vilag!" << std::endl;
-    std::cin.ignore();
+    cout << "Hello world!" << endl;
+    cout << "Hello, vilag!" << endl;
+    cin.ignore();
+	return 0;
 }

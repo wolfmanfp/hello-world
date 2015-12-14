@@ -1,5 +1,5 @@
 #!/bin/sh
 # Hello World in Unix bash
 
-echo "Hello World"
+echo "Hello, world!"
 echo "Helló, világ!"

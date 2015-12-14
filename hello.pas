@@ -5,7 +5,7 @@ uses crt;
 
 begin
 	clrscr;
-	writeln('Hello world!');
+	writeln('Hello, world!');
 	writeln('Hello, vilag!');
 	readln;
 end.

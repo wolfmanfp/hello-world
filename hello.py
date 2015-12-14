@@ -1,4 +1,4 @@
 # Hello World in Python
 
-print("Hello World!")
+print("Hello, world!")
 print("Helló, világ!")

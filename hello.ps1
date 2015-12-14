@@ -1,4 +1,4 @@
 ﻿# Hello World in PowerShell
 
-Write-Host "Hello World!"
+Write-Host "Hello, world!"
 Write-Host "Helló, világ!"
