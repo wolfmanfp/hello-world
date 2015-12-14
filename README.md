@@ -22,4 +22,5 @@ This repo contains the message "Hello World" in several programming, markup and 
   * Python
   * Ruby
   * [Shibe](https://github.com/justinmeza/doge)
+  * [Stuck](https://github.com/kade-robertson/stuck)
   * Swift
