@@ -17,8 +17,9 @@ This repo contains the message "Hello World" in several programming, markup and 
   * [LOLCODE](https://en.wikipedia.org/wiki/LOLCODE)
   * Markdown
   * Pascal
-  * [PowerShell](https://github.com/powershell/)
   * [PHP](https://github.com/php/php-src)
+  * [PowerShell](https://github.com/powershell/)
+  * Prolog
   * [Python](https://github.com/python)
   * [Ruby](https://github.com/ruby/ruby)
   * [Shibe](https://github.com/justinmeza/doge)
