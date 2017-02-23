@@ -1,4 +1,4 @@
-:: Hello World in Windows command line
+rem Hello World in Windows command line
 
 echo Hello, world!
 echo Hello, vilag!
