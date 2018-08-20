@@ -9,12 +9,13 @@ This repo contains the message "Hello World" in several programming, markup and 
   * Batch
   * C
   * C++
-  * C#
+  * [C#](https://github.com/dotnet/csharplang)
+  * [Dart](https://github.com/dart-lang/sdk)
   * HTML
   * Java
-  * JavaScript
+  * [JavaScript](https://github.com/tc39/ecma262)
   * LaTeX
-  * [LOLCODE](https://en.wikipedia.org/wiki/LOLCODE)
+  * [LOLCODE](https://github.com/justinmeza/lci)
   * Markdown
   * Pascal
   * [PHP](https://github.com/php/php-src)
