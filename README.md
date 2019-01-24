@@ -1,5 +1,5 @@
 # Hello World!
-Hi! I'm Péter, currently studying Engineering IT at the University of Pécs.
+Hi! My name is Péter. I'm currently working at [Webstar Csoport](http://webstar.company/) and studying Computer Science Engineering at the [University of Pécs](https://english.mik.pte.hu).
 
 This repo contains the message "Hello World" in several programming, markup and two human languages (English and Hungarian).
 
@@ -22,7 +22,9 @@ This repo contains the message "Hello World" in several programming, markup and 
   * [PowerShell](https://github.com/powershell/)
   * Prolog
   * [Python](https://github.com/python)
+  * [Rockstar](https://github.com/dylanbeattie/rockstar)
   * [Ruby](https://github.com/ruby/ruby)
+  * [Rust](https://github.com/rust-lang/rust)
   * [Shibe](https://github.com/justinmeza/doge)
-  * [Stuck](https://github.com/kade-robertson/stuck)
+  * SQL
   * [Swift](https://github.com/apple/swift)

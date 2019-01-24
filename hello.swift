@@ -1,4 +1,4 @@
 // Hello World in Swift
 
 println("Hello, world!")
-println("HellÛ, vil·g!")
+println("Hell√≥, vil√°g!")
