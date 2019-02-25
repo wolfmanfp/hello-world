@@ -14,6 +14,7 @@ This repo contains the message "Hello World" in several programming, markup and 
   * HTML
   * Java
   * [JavaScript](https://github.com/tc39/ecma262)
+  * [Kotlin](https://github.com/JetBrains/kotlin)
   * LaTeX
   * [LOLCODE](https://github.com/justinmeza/lci)
   * Markdown
