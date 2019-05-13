@@ -23,6 +23,7 @@ This repo contains the message "Hello World" in several programming, markup and 
   * [PowerShell](https://github.com/powershell/)
   * Prolog
   * [Python](https://github.com/python)
+  * [Q#](https://github.com/Microsoft/Quantum)
   * [Rockstar](https://github.com/dylanbeattie/rockstar)
   * [Ruby](https://github.com/ruby/ruby)
   * [Rust](https://github.com/rust-lang/rust)
