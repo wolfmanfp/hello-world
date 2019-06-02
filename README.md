@@ -1,7 +1,7 @@
 # Hello World!
 Hi! My name is Péter. I'm currently working at [Webstar Csoport](http://webstar.company/) and studying Computer Science Engineering at the [University of Pécs](https://english.mik.pte.hu).
 
-This repo contains the message "Hello World" in several programming, markup and two human languages (English and Hungarian).
+This repo contains the message "Hello World" in several programming/markup and two human languages (English and Hungarian).
 
 ### Current languages:
   * Assembly (x86 DOS)
@@ -24,6 +24,7 @@ This repo contains the message "Hello World" in several programming, markup and 
   * Prolog
   * [Python](https://github.com/python)
   * [Q#](https://github.com/Microsoft/Quantum)
+  * R
   * [Rockstar](https://github.com/dylanbeattie/rockstar)
   * [Ruby](https://github.com/ruby/ruby)
   * [Rust](https://github.com/rust-lang/rust)
