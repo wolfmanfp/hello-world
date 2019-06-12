@@ -31,3 +31,4 @@ This repo contains the message "Hello World" in several programming/markup and t
   * [Shibe](https://github.com/justinmeza/doge)
   * SQL
   * [Swift](https://github.com/apple/swift)
+  * [TypeScript](https://github.com/microsoft/TypeScript)
