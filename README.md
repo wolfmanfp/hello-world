@@ -1,6 +1,4 @@
 # Hello World!
-Hi! My name is Péter. I'm currently working at [Webstar Csoport](http://webstar.company/) and studying Computer Science Engineering at the [University of Pécs](https://english.mik.pte.hu).
-
 This repo contains the message "Hello World" in several programming/markup and two human languages (English and Hungarian).
 
 ### Current languages:
