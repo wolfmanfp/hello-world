@@ -5,6 +5,7 @@ This repo contains the message "Hello World" in several programming/markup and t
   * Assembly (x86 DOS)
   * Bash
   * Batch
+  * Brainfuck
   * C
   * C++
   * [C#](https://github.com/dotnet/csharplang)
